@@ -1,15 +1,12 @@
 /*
-    main
-    ---------------------------
-
-    JaCaMo Application File
+    JaCaMo Application File Template
+    --------------------------------
 
     This file defines the initial state of the MAS (initial agents, environment, organisation, ....)
 
     (see jacamo/doc/jcm.html for more information about what can be defined in this file)
 
     JaCaMo 1.2
-    May 22, 2023 - 16:16:00
 */
 
 mas main {
@@ -21,7 +18,4 @@ mas main {
     workspace w {
       artifact c1: example.Counter(3) 
     }
-
-    
-
 }
