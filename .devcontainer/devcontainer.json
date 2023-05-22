@@ -29,7 +29,7 @@
 		"vscode": {
 			"extensions": [
 				"tabajara-krausburg.jacamo4code", 
-				"rogalmic.vscode-xml-complete"
+				"redhat.vscode-xml"
 			]
 		}
 	  }
