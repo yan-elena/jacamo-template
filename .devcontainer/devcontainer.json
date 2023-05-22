@@ -28,7 +28,8 @@
 		},
 		"vscode": {
 			"extensions": [
-				"tabajara-krausburg.jacamo4code"
+				"tabajara-krausburg.jacamo4code", 
+				"rogalmic.vscode-xml-complete"
 			]
 		}
 	  }
